@@ -95,6 +95,16 @@ category: 分类1, 分类2
 
 # 个人文章列表
 
-  
+
+
+
+
+
+# 参考文章
+
+[博客园同步GitHub功能 - xbotter](https://www.cnblogs.com/xbotter/p/17522977.html)
+
+-------------------------
+本文源地址：https://www.cnblogs.com/BensonLaur/p/18306067
 
   
