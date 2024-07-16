@@ -42,11 +42,19 @@ category: 版本控制, 教程
 
    <img src="resource\教程步骤-3-B-安装GitHubApp.png" alt="安装GitHubApp" width="400">
 
+   安装成功后，页面上会出现安装成功的提示：
+
+   <img src="resource\教程步骤-3-B-GitHubApp安装成功效果.png" alt="GitHubApp安装成功效果" width="400">
+
    C. 回到博客后台，账号列表应该会出现您刚刚绑定的账号（如果没有，请刷新页面重试，多次尝试仍然没有的话，请参见[使用帮助文章](https://www.cnblogs.com/cmt/p/17648901.html)后面的「重新绑定 GitHub 来源」一节）
 
    <img src="resource\教程步骤-3-C-选择账号和仓库.png" alt="选择账号和仓库" width="400">
 
- 4. 四个使用心得
+   D. 选择同步行为 “偏好” 和 "启用 Markdown FrontMatter"
+
+   <img src="resource\教程步骤-3-D-同步偏好和FrontMatter.png" alt="同步偏好和FrontMatter" width="400">
+
+ 5. 四个使用心得
 
     A. 创建 GitHub 同步源时，“文件夹” 是指跟踪 git 仓库中的哪个文件夹的 md 文件的变化，比如想跟踪整个仓库的 md 文件，那么就写根目录 “/”; 如果只跟踪 git 仓库的文件夹下 /docs，那么就填写 “/docs”
 
