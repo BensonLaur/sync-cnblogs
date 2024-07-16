@@ -92,11 +92,11 @@ category: 分类1, 分类2
 
 正文内容
 `````
+      具体使用示例参考 [个人文章列表-1]，本 cnblogs 博文就是通过 GitHub 编写的 md 文件自动生成
 
 # 个人文章列表
 
-
-
+1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) 
 
 
 
