@@ -8,7 +8,8 @@ category: 版本控制, 教程
 ---
 
 # 导读
-开通了博客园的 VIP 发现了会员服务中的 GitHub 跟踪和同步博文数据的功能，测试发现习惯使用 GitHub 的话，这个还是一个挺不错的功能。
+开通了博客园的 VIP，发现了会员服务中的 GitHub 跟踪和同步博文数据的功能，测试发现习惯使用 GitHub 的话，这个还是一个挺不错的功能。
+
 本文主要分两部分，一是介绍说明如何使用该功能，并做相关个人的经验分享，二是作为个人 GitHub 同步 cnblogs 的文章的索引
 
 # 教程：如何使用 
@@ -28,13 +29,13 @@ category: 版本控制, 教程
 
    A. 在 cnblogs 的 [账户中心](https://account.cnblogs.com/settings/account) 绑定 GitHub 账号
    
-     <img src="resource\教程步骤-3-A-绑定Github账号.png" alt="绑定Github账号" width="400">
-     
+     <img src="resource\教程步骤-3-A-绑定Github账号.png" alt="绑定Github账号" width="500">
+    
    B. 在博客后台，根据指引安装 GitHub App（博客园提供的 cnblogs-sync），完成 Github 和 博客园的关联
 
    在博客后台-同步选项卡下，点击「`添加 GitHub 源`」按钮，弹出创建 GitHub 同步源对话框，点击 「`GitHub 账户`」右侧的数据框，点击「`安装 GitHub App`」按钮
     
-   <img src="resource\教程步骤-3-B-添加GitHub源.png" alt="添加GitHub源" width="80%">
+   <img src="resource\教程步骤-3-B-添加GitHub源.png" alt="添加GitHub源" width="500">
 
    <img src="resource\教程步骤-3-B-点击安装GitHubApp.png" alt="点击安装GitHubApp" width="400">
    
