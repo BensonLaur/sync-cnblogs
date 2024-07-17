@@ -119,7 +119,9 @@ category: 版本控制, 教程
 
 ## 个人文章列表
 
-1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) <div id="个人文章列表-1"></div>
+<div id="个人文章列表-1"></div>
+
+1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) 
 
 
 ## 参考文章
