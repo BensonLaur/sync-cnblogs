@@ -95,7 +95,7 @@ category: 版本控制, 教程
     正文内容
     `````
 
-    具体使用示例参考 [个人文章列表-1]，本 cnblogs 博文就是通过 GitHub 编写的 md 文件自动生成
+    具体使用示例参考 [[个人文章列表-1](#个人文章列表-1)]，本 cnblogs 博文就是通过 GitHub 编写的 md 文件自动生成
 
 5. **本地 Markdown 工具**
 
@@ -119,7 +119,7 @@ category: 版本控制, 教程
 
 ## 个人文章列表
 
-1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) 
+1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) <div id="个人文章列表-1"></div>
 
 
 ## 参考文章
