@@ -36,7 +36,7 @@ category: 版本控制, 教程
    在博客后台-同步选项卡下，点击「`添加 GitHub 源`」按钮，弹出创建 GitHub 同步源对话框，点击 「`GitHub 账户`」右侧的数据框，点击「`安装 GitHub App`」按钮
     
    <img src="resource\教程步骤-3-B-添加GitHub源.png" alt="添加GitHub源" width="500">
-
+   <br/>
    <img src="resource\教程步骤-3-B-点击安装GitHubApp.png" alt="点击安装GitHubApp" width="400">
    
    览器将自动跳转到 GitHub（如果您的浏览器提示「是否允许新建窗口」，请选择允许），请在跳转后的页面选择您希望同步的 repo 所属账号，然后点击「Install」
