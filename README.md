@@ -123,6 +123,7 @@ category: 版本控制, 教程
 
 1. [使用 GitHub 跟踪博文数据，并自动同步到 cnblogs - GitHub:sync-cnblogs/README.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/README.md) 
 
+2. [可怕的甲醛 - GitHub:生活随笔/01-20240801-可怕的甲醛.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/01-20240801-%E5%8F%AF%E6%80%95%E7%9A%84%E7%94%B2%E9%86%9B.md)
 
 ## 参考文章
 
