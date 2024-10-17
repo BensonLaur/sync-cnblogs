@@ -125,6 +125,8 @@ category: 版本控制, 教程
 
 2. [可怕的甲醛 - GitHub:生活随笔/01-20240801-可怕的甲醛.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/01-20240801-%E5%8F%AF%E6%80%95%E7%9A%84%E7%94%B2%E9%86%9B.md)
 
+3. [VMWare安装与拖动文件到虚拟机 - GitHub:工具教程/01-20241017-VMWare安装与拖动文件到虚拟机.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/01-20241017-VMWare%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8B%96%E5%8A%A8%E6%96%87%E4%BB%B6%E5%88%B0%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+
 ## 参考文章
 
 * [博客园同步GitHub功能 - xbotter](https://www.cnblogs.com/xbotter/p/17522977.html)
