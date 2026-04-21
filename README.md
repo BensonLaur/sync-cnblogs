@@ -133,6 +133,8 @@ category: 版本控制, 教程
 
 6. [ClaudeCode在cmd下AltV粘贴图片失败的排查与解决 - GitHub:工具教程/02-20260419-ClaudeCode在cmd下AltV粘贴图片失败的排查与解决.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/02-20260419-ClaudeCode%E5%9C%A8cmd%E4%B8%8BAltV%E7%B2%98%E8%B4%B4%E5%9B%BE%E7%89%87%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%8E%92%E6%9F%A5%E4%B8%8E%E8%A7%A3%E5%86%B3.md)
 
+7. [Win11 下 VMware 17 装 Win7 虚拟机：VMware Tools 签名不兼容（SHA-2）的解决方案 - GitHub:工具教程/03-20260421-Win11下VMware17装Win7虚拟机-VMwareTools签名不兼容SHA-2问题.md](https://github.com/BensonLaur/sync-cnblogs/blob/main/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/03-20260421-Win11%E4%B8%8BVMware17%E8%A3%85Win7%E8%99%9A%E6%8B%9F%E6%9C%BA-VMwareTools%E7%AD%BE%E5%90%8D%E4%B8%8D%E5%85%BC%E5%AE%B9SHA-2%E9%97%AE%E9%A2%98.md)
+
 ## 参考文章
 
 * [博客园同步GitHub功能 - xbotter](https://www.cnblogs.com/xbotter/p/17522977.html)
